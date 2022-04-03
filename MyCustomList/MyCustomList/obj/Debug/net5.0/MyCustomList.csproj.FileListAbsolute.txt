@@ -1,0 +1,16 @@
+C:\Users\Ramal\Desktop\C# Projects\MyCustomList\MyCustomList\bin\Debug\net5.0\MyCustomList.exe
+C:\Users\Ramal\Desktop\C# Projects\MyCustomList\MyCustomList\bin\Debug\net5.0\MyCustomList.deps.json
+C:\Users\Ramal\Desktop\C# Projects\MyCustomList\MyCustomList\bin\Debug\net5.0\MyCustomList.runtimeconfig.json
+C:\Users\Ramal\Desktop\C# Projects\MyCustomList\MyCustomList\bin\Debug\net5.0\MyCustomList.runtimeconfig.dev.json
+C:\Users\Ramal\Desktop\C# Projects\MyCustomList\MyCustomList\bin\Debug\net5.0\MyCustomList.dll
+C:\Users\Ramal\Desktop\C# Projects\MyCustomList\MyCustomList\bin\Debug\net5.0\MyCustomList.pdb
+C:\Users\Ramal\Desktop\C# Projects\MyCustomList\MyCustomList\obj\Debug\net5.0\MyCustomList.csproj.AssemblyReference.cache
+C:\Users\Ramal\Desktop\C# Projects\MyCustomList\MyCustomList\obj\Debug\net5.0\MyCustomList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramal\Desktop\C# Projects\MyCustomList\MyCustomList\obj\Debug\net5.0\MyCustomList.AssemblyInfoInputs.cache
+C:\Users\Ramal\Desktop\C# Projects\MyCustomList\MyCustomList\obj\Debug\net5.0\MyCustomList.AssemblyInfo.cs
+C:\Users\Ramal\Desktop\C# Projects\MyCustomList\MyCustomList\obj\Debug\net5.0\MyCustomList.csproj.CoreCompileInputs.cache
+C:\Users\Ramal\Desktop\C# Projects\MyCustomList\MyCustomList\obj\Debug\net5.0\MyCustomList.dll
+C:\Users\Ramal\Desktop\C# Projects\MyCustomList\MyCustomList\obj\Debug\net5.0\refint\MyCustomList.dll
+C:\Users\Ramal\Desktop\C# Projects\MyCustomList\MyCustomList\obj\Debug\net5.0\MyCustomList.pdb
+C:\Users\Ramal\Desktop\C# Projects\MyCustomList\MyCustomList\obj\Debug\net5.0\MyCustomList.genruntimeconfig.cache
+C:\Users\Ramal\Desktop\C# Projects\MyCustomList\MyCustomList\obj\Debug\net5.0\ref\MyCustomList.dll
